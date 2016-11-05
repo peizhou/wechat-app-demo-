@@ -16,8 +16,8 @@
 
 交流群qq群:168847296
 
-![微信小程序交流区群]
-https://github.com/peizhou/wechat-app-demo-/blob/master/5BE3EB362F09026FF47665FB8C7B0143.png
+![微信小程序交流区群](./5BE3EB362F09026FF47665FB8C7B0143.png)
+
 ## 官方文档
 
 - [小程序开发文档](https://mp.weixin.qq.com/debug/wxadoc/dev/index.html)
